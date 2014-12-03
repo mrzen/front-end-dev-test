@@ -1,0 +1,19 @@
+[
+    {
+        "slideshow": [
+            {
+                "title": "Mount Fuji",
+                "desc": "blah Japan blah",
+                "image": "1.jpg"
+            },
+            {
+                "title": "Corcovado Mountain",
+                "desc": "blah Rio blah",
+                "image": "2.jpg"
+            }
+        ],
+        "holidays": [
+            
+        ]
+    }
+]
