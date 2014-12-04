@@ -10,10 +10,11 @@ HTML
 Javascript
 ----------
 * You can choose which libraries (if any) to use.
+* You are free to use a library for the slideshow.
 * Add any effects which you think are approriate.
 
-CSS3
-----
+CSS
+---
 * Cross browser compatible
 * Supported on latest browsers (IE10+)
 * Use of transitions
@@ -25,11 +26,7 @@ AJAX
 
 Responsive
 ----------
-* Needs to work on mobile and tablet (Chrome and Safari only)
-
-Build and Deployment (Bonus)
-----------------------------
-* Use of automated build tools
+* Needs to work on mobile and tablet (Chrome and/or Safari). If you can only cover one of these let us know which one.
 
 Getting Started
 ===============
@@ -37,6 +34,4 @@ Getting Started
 * You are free to use any development tools you wish.
 * You will find image media relating to the data in the images folder.
 * The designs are provided in Photoshop and GIMP format.
-* Social Media and Telephone icons are provide as font files in the fonts/iconfont folder or as images in the images/icons folder.
-
-
+* Social Media and Telephone icons are provide as font files in the fonts/iconfont folder or as svg's in the images/icons folder.
