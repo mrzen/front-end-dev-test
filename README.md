@@ -1,15 +1,16 @@
 Front End Developer Test
 ========================
 
-Test Instructions for a Front End Developer
+Create a single web page as per the design in the design.jpg file using the following guidelines.
 
-HTML5
------
+HTML
+----
 * Clean semantic HTML5
 
 Javascript
 ----------
 * You can choose which libraries (if any) to use.
+* Add any effects which you think are approriate.
 
 CSS3
 ----
@@ -20,7 +21,7 @@ CSS3
 
 AJAX
 ----
-* Load data from external source and populate the dom.
+* Load data the data.json file in order to populate the slideshow and holidays.
 
 Responsive
 ----------
@@ -29,5 +30,11 @@ Responsive
 Build and Deployment (Bonus)
 ----------------------------
 * Use of automated build tools
+
+Getting Started
+===============
+* Clone the repository and start coding!
+* You are free to use any development tools you wish.
+
 
 
