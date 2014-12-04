@@ -26,7 +26,7 @@ AJAX
 
 Responsive
 ----------
-* Needs to work on mobile and tablet (Chrome and Safari only)
+* Needs to work on mobile and tablet (Chrome and/or Safari). If you can only cover one of these let us know which one.
 
 Getting Started
 ===============
