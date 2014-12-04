@@ -21,7 +21,7 @@ CSS3
 
 AJAX
 ----
-* Load data the data.json file in order to populate the slideshow and holidays.
+* Load data in the data.json file in order to populate the slideshow and holidays.
 
 Responsive
 ----------
