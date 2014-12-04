@@ -3,16 +3,88 @@
         "slideshow": [
             {
                 "title": "Mount Fuji",
-                "desc": "blah Japan blah",
-                "image": "1.jpg"
+                "desc": "Mount Fuji is the highest mountain in Japan",
+                "image": "slideshow_1.jpg"
             },
             {
                 "title": "Corcovado Mountain",
-                "desc": "blah Rio blah",
-                "image": "2.jpg"
+                "desc": "Corcovado Mountain is a mountain in central Rio de Janeiro",
+                "image": "slideshow_2.jpg"
             }
         ],
         "holidays": [
+		{
+	        "title": "Zion National Park",
+	        "alias": "zion-national-park",
+	        "country": "USA",
+	        "region": "Utah",
+	        "currency": "&pound;",
+	        "price": "490",
+	        "image": "holiday_1.jpg"
+            	},
+		{
+	        "title": "Rocky Mountain",
+	        "alias": "rocky-mountain",
+	        "country": "Canada",
+	        "region": "Alberta",
+	        "currency": "&pound;",
+	        "price": "590",
+	        "image": "holiday_2.jpg"
+            	},
+		{
+	        "title": "Rocky Mountain",
+	        "alias": "rocky-mountain",
+	        "country": "USA",
+	        "region": "Utah",
+	        "currency": "&pound;",
+	        "price": "490",
+	        "image": "holiday_3.jpg"
+            	},
+		{
+	        "title": "Rocky Mountain",
+	        "alias": "rocky-mountain",
+	        "country": "USA",
+	        "region": "Utah",
+	        "currency": "&pound;",
+	        "price": "490",
+	        "image": "holiday_4.jpg"
+            	},
+		{
+	        "title": "Rocky Mountain",
+	        "alias": "rocky-mountain",
+	        "country": "USA",
+	        "region": "Utah",
+	        "currency": "&pound;",
+	        "price": "490",
+	        "image": "holiday_5.jpg"
+            	},
+		{
+	        "title": "Rocky Mountain",
+	        "alias": "rocky-mountain",
+	        "country": "USA",
+	        "region": "Utah",
+	        "currency": "&pound;",
+	        "price": "490",
+	        "image": "holiday_6.jpg"
+            	},
+		{
+	        "title": "Mount Fuji",
+	        "alias": "mount-fuji",
+	        "country": "Japan",
+	        "region": "Honshu Island",
+	        "currency": "&pound;",
+	        "price": "675",
+	        "image": "holiday_7.jpg"
+            	},
+		{
+	        "title": "Corcovado Mountain",
+	        "alias": "corcovado-mountain",
+	        "country": "Brazil",
+	        "region": "Rio de Janeiro",
+	        "currency": "&pound;",
+	        "price": "490",
+	        "image": "holiday_8.jpg"
+            	},
             
         ]
     }
