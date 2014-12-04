@@ -35,6 +35,8 @@ Getting Started
 ===============
 * Clone the repository and start coding!
 * You are free to use any development tools you wish.
-
+* You will find image media relating to the data in the images folder.
+* The designs are provided in Photoshop and GIMP format.
+* Social Media and Telephone icons are provide as font files in the fonts/iconfont folder or as images in the images/icons folder.
 
 
